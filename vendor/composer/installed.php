@@ -6,29 +6,17 @@
     'aliases' => 
     array (
     ),
-    'reference' => '682313a78e29b1c418372d49d35c78555466ae06',
+    'reference' => '2cfad99a0bb65f0da791b6b633a95336d49d2026',
     'name' => 'maithemewp/mai-display',
   ),
   'versions' => 
   array (
     'afragen/wp-dependency-installer' => 
     array (
-      'pretty_version' => '4.2.2',
-      'version' => '4.2.2.0',
-      'aliases' => 
+      'replaced' => 
       array (
+        0 => '*',
       ),
-      'reference' => '5e5419348c6cde7b02f3c33fb3fc3381062443a1',
-    ),
-    'afragen/wp-dismiss-notice' => 
-    array (
-      'pretty_version' => 'dev-main',
-      'version' => 'dev-main',
-      'aliases' => 
-      array (
-        0 => '9999999-dev',
-      ),
-      'reference' => '21949732f1ea21d81500bdda8f882ac7eb0f98af',
     ),
     'maithemewp/mai-display' => 
     array (
@@ -37,7 +25,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '682313a78e29b1c418372d49d35c78555466ae06',
+      'reference' => '2cfad99a0bb65f0da791b6b633a95336d49d2026',
     ),
     'maithemewp/mai-installer' => 
     array (
@@ -47,7 +35,7 @@
       array (
         0 => '9999999-dev',
       ),
-      'reference' => '244cf7604a6b34a4662c29385497d4257f175956',
+      'reference' => '1b637076d114af7762855493b9bac009a6272d5c',
     ),
   ),
 );
