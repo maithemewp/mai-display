@@ -32,7 +32,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '6f5cd0c51844bf2cc825f41ee59a086f8b48e47a',
+    'reference' => '9d2231901129e8f1c1e21644292f710ee0f10b0f',
     'name' => 'maithemewp/mai-display',
   ),
   'versions' => 
@@ -51,7 +51,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '6f5cd0c51844bf2cc825f41ee59a086f8b48e47a',
+      'reference' => '9d2231901129e8f1c1e21644292f710ee0f10b0f',
     ),
     'maithemewp/mai-installer' => 
     array (
@@ -61,7 +61,7 @@ private static $installed = array (
       array (
         0 => '9999999-dev',
       ),
-      'reference' => '44561c1f7bb4bb0022787bb44974b573b2bca72d',
+      'reference' => '399fec687a9459b774c1bd1c44a38a806dfa052f',
     ),
   ),
 );
